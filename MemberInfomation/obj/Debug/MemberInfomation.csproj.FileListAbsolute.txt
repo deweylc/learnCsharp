@@ -1,0 +1,11 @@
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\bin\Debug\MemberInfomation.exe.config
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\bin\Debug\MemberInfomation.exe
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\bin\Debug\MemberInfomation.pdb
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.csprojAssemblyReference.cache
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.Form1.resources
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.Properties.Resources.resources
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.csproj.GenerateResource.cache
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.exe
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.pdb
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.Form2.resources
+C:\Users\Dzt\Desktop\C#学习\MemberInfomation\obj\Debug\MemberInfomation.Form3.resources
