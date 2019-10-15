@@ -28,26 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("添加工种");
-            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("浏览工种");
-            System.Windows.Forms.TreeNode treeNode15 = new System.Windows.Forms.TreeNode("工种设置", new System.Windows.Forms.TreeNode[] {
-            treeNode13,
-            treeNode14});
-            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("添加员工");
-            System.Windows.Forms.TreeNode treeNode17 = new System.Windows.Forms.TreeNode("浏览部门");
-            System.Windows.Forms.TreeNode treeNode18 = new System.Windows.Forms.TreeNode("部门管理", new System.Windows.Forms.TreeNode[] {
-            treeNode16,
-            treeNode17});
-            System.Windows.Forms.TreeNode treeNode19 = new System.Windows.Forms.TreeNode("添加员工");
-            System.Windows.Forms.TreeNode treeNode20 = new System.Windows.Forms.TreeNode("浏览员工");
-            System.Windows.Forms.TreeNode treeNode21 = new System.Windows.Forms.TreeNode("员工管理", new System.Windows.Forms.TreeNode[] {
-            treeNode19,
-            treeNode20});
-            System.Windows.Forms.TreeNode treeNode22 = new System.Windows.Forms.TreeNode("添加收入");
-            System.Windows.Forms.TreeNode treeNode23 = new System.Windows.Forms.TreeNode("浏览收入");
-            System.Windows.Forms.TreeNode treeNode24 = new System.Windows.Forms.TreeNode("收入管理", new System.Windows.Forms.TreeNode[] {
-            treeNode22,
-            treeNode23});
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("添加工种");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("浏览工种");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("工种设置", new System.Windows.Forms.TreeNode[] {
+            treeNode1,
+            treeNode2});
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("添加部门");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("浏览部门");
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("部门管理", new System.Windows.Forms.TreeNode[] {
+            treeNode4,
+            treeNode5});
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("添加员工");
+            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("浏览员工");
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("员工管理", new System.Windows.Forms.TreeNode[] {
+            treeNode7,
+            treeNode8});
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("添加收入");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("浏览收入");
+            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("收入管理", new System.Windows.Forms.TreeNode[] {
+            treeNode10,
+            treeNode11});
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.SuspendLayout();
             // 
@@ -58,35 +58,35 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.treeView1.Location = new System.Drawing.Point(12, 12);
             this.treeView1.Name = "treeView1";
-            treeNode13.Name = "添加工种";
-            treeNode13.Text = "添加工种";
-            treeNode14.Name = "浏览工种";
-            treeNode14.Text = "浏览工种";
-            treeNode15.Name = "节点0";
-            treeNode15.Text = "工种设置";
-            treeNode16.Name = "添加员工";
-            treeNode16.Text = "添加员工";
-            treeNode17.Name = "浏览部门";
-            treeNode17.Text = "浏览部门";
-            treeNode18.Name = "节点3";
-            treeNode18.Text = "部门管理";
-            treeNode19.Name = "添加员工";
-            treeNode19.Text = "添加员工";
-            treeNode20.Name = "浏览员工";
-            treeNode20.Text = "浏览员工";
-            treeNode21.Name = "节点6";
-            treeNode21.Text = "员工管理";
-            treeNode22.Name = "添加收入";
-            treeNode22.Text = "添加收入";
-            treeNode23.Name = "浏览收入";
-            treeNode23.Text = "浏览收入";
-            treeNode24.Name = "节点9";
-            treeNode24.Text = "收入管理";
+            treeNode1.Name = "添加工种";
+            treeNode1.Text = "添加工种";
+            treeNode2.Name = "浏览工种";
+            treeNode2.Text = "浏览工种";
+            treeNode3.Name = "节点0";
+            treeNode3.Text = "工种设置";
+            treeNode4.Name = "添加部门";
+            treeNode4.Text = "添加部门";
+            treeNode5.Name = "浏览部门";
+            treeNode5.Text = "浏览部门";
+            treeNode6.Name = "节点3";
+            treeNode6.Text = "部门管理";
+            treeNode7.Name = "添加员工";
+            treeNode7.Text = "添加员工";
+            treeNode8.Name = "浏览员工";
+            treeNode8.Text = "浏览员工";
+            treeNode9.Name = "节点6";
+            treeNode9.Text = "员工管理";
+            treeNode10.Name = "添加收入";
+            treeNode10.Text = "添加收入";
+            treeNode11.Name = "浏览收入";
+            treeNode11.Text = "浏览收入";
+            treeNode12.Name = "节点9";
+            treeNode12.Text = "收入管理";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode15,
-            treeNode18,
-            treeNode21,
-            treeNode24});
+            treeNode3,
+            treeNode6,
+            treeNode9,
+            treeNode12});
             this.treeView1.Size = new System.Drawing.Size(226, 586);
             this.treeView1.TabIndex = 0;
             this.treeView1.NodeMouseDoubleClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.treeView1_NodeMouseDoubleClick);
